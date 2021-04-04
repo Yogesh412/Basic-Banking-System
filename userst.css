@@ -1,0 +1,81 @@
+.xd{
+    margin-left: 300px;
+    margin-right: 100px;
+    
+    background-color: springgreen;
+    
+}
+#i1{
+    width: 173px;
+    height: 144px;
+    margin-top: -100px;
+    margin-left: 88px;
+
+}
+#xd1{
+    text-align: center;
+    padding: 18px;
+    font-family: 'Baloo Bhai 2', cursive;
+}
+h1{
+    margin-top: -10px;
+    color: rgb(236, 218, 218);
+    font-size: 30px;
+    text-align: center;
+    font-family: 'Baloo Bhai 2', cursive;
+}
+table{
+    background-color: #bcf1fa;
+    margin-left: 240px;
+    margin-top: 35px;
+    border-radius: 10px;
+    font-family: 'Baloo Bhai 2', cursive;
+}
+.th{
+    background-color: #16a5b3;
+    width: 80px;
+    height: 50px;
+}
+.th1{
+    background-color: #16a5b3;
+    text-align: center;
+    width: 280px;
+    height: 50px;
+}
+.th4{
+    background-color: #16a5b3;
+    text-align: center;
+    width: 200px;
+    height: 50px;
+}
+.th2{
+    background-color: #16a5b3;
+    margin-left: 50px;
+    
+    width: 340px;
+    height: 50px;
+}
+.th3{
+    background-color: #16a5b3;
+    margin-left: 50px;
+    
+    width: 180px;
+    height: 50px;
+}
+#dg1{
+    height: 39px;
+    text-align: center;
+}
+#dg2{
+    text-align: center;
+}
+#dg3{
+    text-align: center;
+}
+#dg4{
+    text-align: center;
+}
+.antic{
+    font-size: 30px;
+    font-family: 'Baloo Bhai 2', cursive;
+}
